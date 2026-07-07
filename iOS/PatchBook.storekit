@@ -1,0 +1,29 @@
+{
+  "identifier" : "PatchBookStoreKit",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "1.99",
+      "familyShareable" : false,
+      "internalID" : "patchbook_pro_unlock",
+      "localizations" : [
+        {
+          "description" : "Unlimited patches and a collage export",
+          "displayName" : "Patch Book Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "patchbook_pro_unlock",
+      "referenceName" : "Patch Book Pro Unlock",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_locale" : "en_US"
+  },
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
